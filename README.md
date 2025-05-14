@@ -3,7 +3,7 @@ Replaces all the "time" values in a recipes.yaml file with the original time div
 
 
 
-Instructions:
+## Instructions:
 1. Download the recipes.yaml file from your server:
 ![alt text](https://github.com/Oblivionburn/MyDU-Recipe-Time-Updater/blob/main/Dump%20recipes.yaml.png)
 
