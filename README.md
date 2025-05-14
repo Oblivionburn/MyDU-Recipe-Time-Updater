@@ -10,4 +10,5 @@ Replaces all the "time" values in a recipes.yaml file with the original time div
 2. Run the MyDU_Recipe-Time_Updater.exe to update the recipes.yaml file
 
 3. Import the updated recipes.yaml file on the same screen you downloaded it from.
-3a. Note: the import progress will stall at 0%, ignore it and refresh the page to view the updated time values
+
+Note: the import progress will stall at 0%, ignore it and refresh the page to view the updated time values
